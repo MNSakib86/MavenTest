@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8210" started-at="2020-04-22T19:26:00Z" finished-at="2020-04-22T19:26:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8210" started-at="2020-04-22T19:26:00Z" finished-at="2020-04-22T19:26:09Z">
+      <class name="GTPLBank.MavenTest.ValidTitleTest">
+        <test-method status="PASS" signature="basePageTitle()[pri:0, instance:GTPLBank.MavenTest.ValidTitleTest@4450d156]" name="basePageTitle" duration-ms="7564" started-at="2020-04-22T19:26:00Z" finished-at="2020-04-22T19:26:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:GTPLBank.MavenTest.ValidTitleTest@4450d156]" name="teardown" is-config="true" duration-ms="645" started-at="2020-04-22T19:26:08Z" finished-at="2020-04-22T19:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- GTPLBank.MavenTest.ValidTitleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
